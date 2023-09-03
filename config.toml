@@ -1,7 +1,6 @@
 base_url = "https://4bcx.gitlab.io/no-style-please/"
 title = "l0kr blog"
-description = "A (nearly) no-CSS, fast, minimalist Zola theme."
-theme = "no-style-please"
+description = "l0kr Home Page"
 
 compile_sass = true
 generate_feed = true
@@ -16,7 +15,7 @@ taxonomies = [
 highlight_code = true
 
 [extra]
-author = "Ahmed Alaa"
+author = "0xbee"
 logo = "images/logo.png"
 header_nav = [
     { name = "~home", url = "/" },

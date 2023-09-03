@@ -1,3 +1,6 @@
+---
+title: "Setting up my laptop like it's 2005 again"
+---
 # Bring back simple blogs
 
 These blogs are simple: 
